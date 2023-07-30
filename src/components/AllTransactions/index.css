@@ -1,0 +1,19 @@
+/* src/components/AllTransactions.js */
+h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 16px;
+}
+
+p {
+  font-size: 16px;
+  margin: 4px 0;
+}

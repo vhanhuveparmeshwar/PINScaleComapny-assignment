@@ -1,0 +1,10 @@
+/* src/components/CreditDebitTotalsUser.js */
+h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+p {
+  font-size: 18px;
+  margin: 8px 0;
+}
